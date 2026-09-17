@@ -1,0 +1,34 @@
+{
+    "name": "use-hash-cancel",
+    "version": "1.0.0",
+    "description": "A React hook that syncs modal/popup state with the URL hash, so the browser back button or back gesture closes them instead of navigating away.",
+    "main": "useHashCancel.js",
+    "type": "module",
+    "files": [
+        "useHashCancel.js"
+    ],
+    "keywords": [
+        "react",
+        "react-hook",
+        "react-router",
+        "modal",
+        "popup",
+        "hash",
+        "back-button",
+        "navigation"
+    ],
+    "author": "drb0r1s",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/drb0r1s/use-hash-cancel.git"
+    },
+    "peerDependencies": {
+        "react": ">=17.0.0",
+        "react-router": ">=6.0.0"
+    },
+    "devDependencies": {
+        "react": "^18.2.0",
+        "react-router": "^6.22.0"
+    }
+}
