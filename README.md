@@ -11,7 +11,7 @@ Built while developing the frontend for a large student platform, where this pat
 ## Installation
 
 ```bash
-npm i use-hash-cancel
+npm i @drb0r1s/use-hash-cancel
 ```
 
 `react` and `react-router` are required as peer dependencies (`react-router` v6+).

@@ -1,5 +1,5 @@
 {
-    "name": "use-hash-cancel",
+    "name": "@drb0r1s/use-hash-cancel",
     "version": "1.0.0",
     "description": "A React hook that syncs modal/popup state with the URL hash, so the browser back button or back gesture closes them instead of navigating away.",
     "main": "useHashCancel.js",
